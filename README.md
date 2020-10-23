@@ -1,4 +1,4 @@
-# CombineClusters
+# Scientific Research
 
 Repositório criado em função da pesquisa científica desenvolvida entre 08/2019 e 07/2020 com o tema "ESTUDO SOBRE CLUSTERIZAÇÃO GEOGRÁFICA EM OPERAÇÕES DE
 DISTRIBUIÇÃO DE CARGA".
